@@ -1,3 +1,2 @@
 site_name: Dupliter Equation Game
-theme:
-  name: mkdocs
+docs_dir: .
